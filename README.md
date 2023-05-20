@@ -16,10 +16,10 @@
 
 2.3 From AWS S3 to Snowflake
 
-2.4 From AWS Glue to Aurora
+2.4 From AWS Glue Data Catalog(Athena) to Aurora
 
-2.5 From AWS Glue to Snowflake
+2.5 From AWS Glue Data Catalog(Athena) to Snowflake
 
-2.6 From AWS Glue to DynamoDB
+2.6 From AWS Glue Data Catalog(Athena) to DynamoDB
 
 
