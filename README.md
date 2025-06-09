@@ -1,4 +1,6 @@
-# Data Ingestion and Extraction from Diverse sources including AWS S3, Aurora DB, Snowflake, and DynamoDB
+# Data Ingestion and Extraction To and from AWS
+
+This repository contains fully working scripts to migrate data between AWS S3 and different internal external sources: Aurora DB, Snowflake, and DynamoDB
 
 1. Data Extraction and Write to AWS S3
 
